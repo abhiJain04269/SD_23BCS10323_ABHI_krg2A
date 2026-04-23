@@ -1,0 +1,33 @@
+{
+  "name": "day1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.4.0",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.9.0",
+    "bcrypt": "^6.0.0",
+    "chart": "^0.1.2",
+    "cloudinary": "^2.6.1",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.16.0",
+    "mongoose": "^8.14.3",
+    "nodemailer": "^7.0.5",
+    "react-icons": "^5.5.0",
+    "redis": "^5.0.1",
+    "resend": "^6.9.2",
+    "router": "^2.2.0",
+    "socket.io": "^4.8.1",
+    "validator": "^13.15.0"
+  }
+}
